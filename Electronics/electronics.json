@@ -1,60 +1,60 @@
 [{
         "name": "Apple iPhone 7 Plus (Gold, 128 GB)",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/Apple%20iPhone%207%20Plus%20(Gold%2C%20128GB).jpeg?raw=true",
         "price": "Rs.64,999 ",
-        "data": "* 128 GB ROM | 3 GB RAM \n *5.5 inch Retina HD Display \n *12 MP + 12 MP Dual Rear Camera | 7 MP \n *Front Camera \n *Li - Ion Battery \n *Apple A10 Fusion 64 - bit processor and Embedded M10 Motion Co - processor \n "
+        "data": "* 128 GB ROM | 3 GB RAM \n * 5.5 inch Retina HD Display \n * 12 MP + 12 MP Dual Rear Camera | 7 MP \n * Front Camera \n * Li - Ion Battery \n * Apple A10 Fusion 64 - bit processor and Embedded M10 Motion Co - processor \n "
     },
     {
         "name": "Moto G5S (Lunar Gray, 32 GB)",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/Moto%20g5S%20(Luna%20Gray%2C%2032%20GB)%20(4GB%20RAM).jpeg?raw=true",
         "price": "Rs. 14,450",
         "data": "* 4 GB RAM | 32 GB ROM | Expandable Upto 128 GB \n * 5.2 inch Full HD Display \n * 16MP Rear Camera | 5MP Front Camera \n * 3000 mAh Polymer Battery \n * Qualcomm Snapdragon 430 Processor \n"
     },
     {
         "name": "Apple MacBook Air Core i5 5th Gen",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/Apple%20MacBookk%20Air%20Core%20i5%205th%20Gen.jpeg?raw=true",
         "price": "Rs. 56,990",
         "data": "* Intel Core i5 Processor (5th Gen) \n * 8 GB DDR3 RAM \n * 64 bit Mac OS Operating System \n * 128 GB SSD \n * 13.3 inch Display \n"
     },
     {
         "name": "Acer Nitro 5 Core i7 7th Gen",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/Acer%20Nitro%205%20Core%20i7%207th%20Gen.jpeg?raw=true",
         "price": "Rs. 87,990",
         "data": "* Nvidia GTX 1050 \n * Intel Core i7 Processor (7th Gen) \n * 16 GB DDR4 RAM \n * 64 bit Windows 10 Operating System \n * 1 TB HDD|128 GB SSD \n * 15.6 inch Display \n"
     },
     {
         "name": "Apple iPad 32 GB 9.7 inch (Space Grey)",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/apple-mp2f2hn-a-original-imaesqd4d9y6cher.jpeg?raw=true",
         "price": "Rs. 24,990",
         "data": "* 9.7 Retina display for stunning detail \n * 2 GB RAM | 32 GB ROM Can Store Upto 8000 Photos \n * 8 MP Primary Camera | 1.2 MP Front \n * iOS 10 World's Most Advanced OS n * Battery: Lithium Polymer Upto 10 hours of Multimedia Usage \n * Processor: A9 Chip with 64-bit Architecture with Embedded M9 Co-processor \n"
     },
     {
         "name": "LG 139cm (55 inch) Ultra HD (4K) LED Smart TV",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/LG%20LED%20TElevision.jpeg?raw=true",
         "price": "Rs. 89,999",
         "data": "* 20 W Speaker Output \n * 3840 x 2160 Ultra HD - 4X resolution of Full HD- More depth in every picture \n * 60 Hz : Standard refresh rate for blur-free picture quality \n * 2 x HDMI : For set top box and consoles \n * 1 x USB : Get content from USB drives \n"
     },
     {
         "name": "Whirlpool 245 L Frost Free Double Door Refrigerator",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/Whirlpool%20refrigerator.jpeg?raw=true",
         "price": "Rs. 19,999",
         "data": "* 245 L : Good for families of 3-5 members n * Reciprocatory Compressor : Standard type of Compressor with Easy Maintenance \n * 2 Star : For Energy savings up to 20% \n * Frost Free : Auto fridge defrost to stop ice-build up \n * Built in Stabilizer: No need to purchase a separate voltage stabilizer \n"
     },
     {
         "name": "Dell (Black, 19.5 Inch Screen)",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/dell-3052-original-imaescyrga27j7y2.jpeg?raw=true",
         "price": "Rs. 28,951",
         "data": "* Ubuntu \n * Intel Pentium Quad Core \n * HDD Capacity 500 GB \n * RAM 4 GB DDR3 \n * 19.5 inch Display \n"
     },
     {
         "name": "Lenovo HW01 Smart Band with Heart Rate Monitor (Black)",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/lenovo%20smart%20watch.jpeg?raw=true",
         "price": "Rs. 1,699",
         "data": "* Notifications & Doze Off Alert \n * Dynamic Heart Rate Monitor \n * Pedometer,Calories & Sleep Monitoring \n * Liquid Splash & Dust proof \n * Compatible with both Android & iOS Devices \n * Digital Smart Band \n * Made of Silicone \n * Bluetooth Enabled \n * Activity Tracker Present \n * OLED Display \n * Water Resistant \n"
     },
     {
         "name": "Motorola Moto 360 Sport Orange Smartwatch (Orange Strap Regular)",
-        "url": "",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/motorola%20moto%20360.jpeg?raw=true",
         "price": "Rs. 16,999",
         "data": "* Bluetooth Support \n * Touchscreen \n * Water Resistant \n * Fitness & Outdoor \n"
     }
