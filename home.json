@@ -1,0 +1,50 @@
+[{
+        "name": "Apple iPhone 7 Plus (Gold, 128 GB) (3 GB RAM)",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/Apple%20iPhone%207%20Plus%20(Gold%2C%20128GB).jpeg?raw=true",
+        "price": "Rs.64,999 ",
+        "data": "* 128 GB ROM | 3 GB RAM \n * 5.5 inch Retina HD Display \n * 12 MP + 12 MP Dual Rear Camera | 7 MP \n * Front Camera \n * Li - Ion Battery \n * Apple A10 Fusion 64 - bit processor and Embedded M10 Motion Co - processor \n "
+    },
+        {
+        "name": "HomeTown Vento Glass 4 Seater Dining Set  (Finish Color - Black)",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/furnitures/4-seater-black-tempered-glass-830002366001-hometown-black-original-imaexw773tfzwty9.jpeg?raw=true",
+        "price": "Rs. 15,900",
+        "data": "* Table Top Material: Glass \n * Chair Frame: Metal \n * W x H x D: 120 cm x 75 cm x 70 cm \n"
+    },
+
+        {
+        "name": "Captain Cool : The M. S. Dhoni Story 3rd Edition  (English, Paperback, Gulu Ezekiel)",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Books/captain-cool-original-imadq8k6jvk3zvru.jpeg?raw=true",
+        "price": "Rs. 271",
+        "data": "* Language: English \n * Binding: Paperback \n * Publisher: Westland Publisher \n * ISBN: 9789383260621, 9383260629 \n * Edition: 3rd, 2008\n *Pages: 250 \n"
+    },
+    {
+        "name": "Flipkart SmartBuy Cotton Geometric Double Bedsheet  (1 Double Bedsheet and 2 Pillow Covers, Multicolor)",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/furnitures/Cotton%20Geometric%20Double%20Bedsheet%20%20(1%20Double%20Bedsheet%20and%202%20Pillow%20Covers%2C%20Multicolor).jpeg?raw=true",
+        "price": "Rs. 419",
+        "data": "* Type: Flat \n * Washable \n  * Flat (L x W): 240 cm x 220 cm \n"
+},
+    {
+        "name": "Moto G5S (Lunar Gray, 32 GB) (4 GB RAM)",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Electronics/Moto%20g5S%20(Luna%20Gray%2C%2032%20GB)%20(4GB%20RAM).jpeg?raw=true",
+        "price": "Rs. 14,450",
+        "data": "* 4 GB RAM | 32 GB ROM | Expandable Upto 128 GB \n * 5.2 inch Full HD Display \n * 16MP Rear Camera | 5MP Front Camera \n * 3000 mAh Polymer Battery \n * Qualcomm Snapdragon 430 Processor \n"
+    },
+{
+        "name": "Himgiri International Full Sleeve Solid Men's Sweatshirt",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Fashion/Himgiri%20International%20Full%20Sleeve%20Solid%20Men's%20Sweatshirt.jpeg?raw=true",
+        "price": "Rs. 539",
+        "data": "* Pattern: Solid \n * Full Sleeve \n *  Hooded \n *  Secondary Color: Black \n * Neck: Round Neck\n"
+    },
+    {
+        "name": "Puma Carme Mid IDP Mid Ankle Sneakers  (Black, Blue)",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Fashion/Puma%20Carme%20Mid%20IDP%20Mid%20Ankle%20Sneakers%20%20(Black%2C%20Blue).jpeg?raw=true",
+        "price": "Rs. 2,449",
+        "data": "*  Colour: Black, Blue \n * Closure: Laced \n"
+},
+    {
+        "name": "Playing It My Way: My Autobiography  (English, Hardcover, Sachin Tendulkar Majumdar Boria)",
+        "url": "https://github.com/nikhil-minz/Flipazon/blob/master/Books/playing-it-my-way-my-autobiography-original-imaegh2rsx3dz8ra.jpeg?raw=true",
+        "price": "Rs. 799",
+        "data": "* Language: English \n * Binding: Hardcover \n * Publisher: Hodder & Stoughton\n * ISBN: 9781473605206, 1473605202 \n"
+    }
+]
